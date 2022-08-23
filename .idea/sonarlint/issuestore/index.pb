@@ -1,0 +1,23 @@
+
+Y
+)src/com/artiasn/solution/FoodRatings.java,5/5/55883025d0f28c2a6a53569ef5b6dc33ba1c5d15
+Q
+!src/com/artiasn/solution/Q16.java,5/1/51cb4bec0da0a1e5aba3f241a43cca4bd308bed0
+Q
+!src/com/artiasn/solution/Q15.java,a/a/aaa52ad0caeb446aec30b791f6f8dc5e2119342d
+P
+ src/com/artiasn/solution/Q2.java,0/5/05f78de8128d126fef94baf7f503b16f4aa569f8
+P
+ src/com/artiasn/solution/Q3.java,2/c/2c9accf341bf9da8a5e7f5fc9a8787b11cdbb364
+P
+ src/com/artiasn/solution/Q4.java,4/6/46f1cb72f3700dd3761eabcbd6a74071cdb75916
+P
+ src/com/artiasn/solution/Q5.java,4/d/4d29596e38f9ceebe75fe28a0bbd78487e7f5dc2
+P
+ src/com/artiasn/solution/Q6.java,c/2/c2559e02481052354bc09f084cc1272f1d392ba2
+P
+ src/com/artiasn/solution/Q7.java,4/9/49f2b892868c0343717bdb6f057576768159350c
+P
+ src/com/artiasn/solution/Q8.java,f/7/f757089584290c93c2dc859a4a3e734ca7b69ff9
+P
+ src/com/artiasn/solution/Q9.java,2/7/2721894fa39e0b93114a52998dfaebc39098cf11
